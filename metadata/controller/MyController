@@ -1,0 +1,42 @@
+{
+    "type": "Ext.app.Controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyController"
+    },
+    "designerId": "cf33c386-aa16-4c47-b901-596e1243091f",
+    "customConfigs": [
+        {
+            "group": "(Custom Properties)",
+            "name": "la",
+            "type": "string"
+        }
+    ],
+    "cn": [
+        {
+            "type": "controlleraction",
+            "reference": {
+                "name": "listeners",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|controlQuery": "button",
+                "designer|targetType": "Ext.Button",
+                "fn": "onButtonTap",
+                "implHandler": [
+                    "Ext.getCmp('Boton').setText('Holass');",
+                    "texto=Ext.getCmp('entrada').getValue();",
+                    "Ext.getCmp('saludo').setValue(texto);",
+                    "Ext.getCmp('entrada').setValue('');"
+                ],
+                "name": "tap"
+            },
+            "designerId": "ccd93255-4c14-4046-83c5-82d53f68682c"
+        }
+    ]
+}

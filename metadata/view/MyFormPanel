@@ -1,0 +1,54 @@
+{
+    "type": "Ext.form.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "MyFormPanel"
+    },
+    "designerId": "b8474169-6af8-4a01-93b0-9cbbfef26303",
+    "cn": [
+        {
+            "type": "Ext.field.Text",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "id": "entrada",
+                "label": "Nombre"
+            },
+            "designerId": "b5a0795d-2313-4bf4-b7dc-948b374ee287"
+        },
+        {
+            "type": "Ext.Button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "id": "Boton",
+                "text": "Saludo"
+            },
+            "designerId": "1ad5fdf0-1503-4f6c-bacb-ec120d3e98f8"
+        },
+        {
+            "type": "Ext.field.Text",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "id": "saludo",
+                "label": "Hola"
+            },
+            "designerId": "fb8a6bcf-303d-4992-aba6-bc5820c445ca"
+        }
+    ]
+}

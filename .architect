@@ -1,0 +1,57 @@
+{
+    "expandedState": {
+        "data": true,
+        "model": true,
+        "component": true,
+        "controller": true,
+        "resource": true,
+        "b8474169-6af8-4a01-93b0-9cbbfef26303": {
+            "id": "b8474169-6af8-4a01-93b0-9cbbfef26303",
+            "cn": [
+                {
+                    "id": "b5a0795d-2313-4bf4-b7dc-948b374ee287"
+                },
+                {
+                    "id": "1ad5fdf0-1503-4f6c-bacb-ec120d3e98f8"
+                },
+                {
+                    "id": "fb8a6bcf-303d-4992-aba6-bc5820c445ca"
+                }
+            ]
+        },
+        "cf33c386-aa16-4c47-b901-596e1243091f": {
+            "id": "cf33c386-aa16-4c47-b901-596e1243091f",
+            "cn": [
+                {
+                    "id": "ccd93255-4c14-4046-83c5-82d53f68682c"
+                }
+            ]
+        },
+        "f386ca14-ba95-4b71-966e-e9d27afddbb1": {
+            "id": "f386ca14-ba95-4b71-966e-e9d27afddbb1"
+        },
+        "98ad9178-c5c6-4e89-8752-90be14f53705": {
+            "id": "98ad9178-c5c6-4e89-8752-90be14f53705"
+        }
+    },
+    "tabState": {
+        "openTabs": [
+            "b8474169-6af8-4a01-93b0-9cbbfef26303",
+            "cf33c386-aa16-4c47-b901-596e1243091f"
+        ]
+    },
+    "canvasState": {
+        "topInstance": "b8474169-6af8-4a01-93b0-9cbbfef26303"
+    },
+    "inspectorState": {
+        "topInstance": "cf33c386-aa16-4c47-b901-596e1243091f",
+        "selectedInstance": "ccd93255-4c14-4046-83c5-82d53f68682c"
+    },
+    "codeState": {
+        "topInstance": "cf33c386-aa16-4c47-b901-596e1243091f"
+    },
+    "editMode": "code",
+    "userSettings": {
+        "no-cmd": false
+    }
+}

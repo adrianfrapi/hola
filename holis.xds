@@ -1,0 +1,50 @@
+{
+    "name": "holis",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.4.84",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.4",
+    "xdsBuild": 1386,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "b8474169-6af8-4a01-93b0-9cbbfef26303"
+        ],
+        "store": [],
+        "controller": [
+            "cf33c386-aa16-4c47-b901-596e1243091f"
+        ],
+        "model": [],
+        "resource": [
+            "f386ca14-ba95-4b71-966e-e9d27afddbb1",
+            "98ad9178-c5c6-4e89-8752-90be14f53705"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
